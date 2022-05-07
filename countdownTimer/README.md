@@ -1,7 +1,1 @@
-15 Personal Projects
-
-1. Countdown Timer
-
-2. Quiz App
-
-3. 
+Countdown Timer use to count the time from at the moment to New Year 2023
